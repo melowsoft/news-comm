@@ -1,6 +1,7 @@
 Important links
 
 1. git repository link https://melowsoft.github.io/news-comm/
+2. Hosted Link https://newscomm.000webhostapp.com/
 
 Instructions
 
